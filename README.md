@@ -13,4 +13,5 @@ or
 ## Usage
 
 `var map = // initialize your map object`
+
 `L.Geolocation.getGeolocation(map)`
