@@ -1,0 +1,23 @@
+{
+  "name": "leaflet-plugin-geolocation",
+  "version": "0.0.1",
+  "description": "Leaflet plugin that adds geolocation API call.",
+  "main": "leaflet-plugin-geolocation.js",
+  "keywords": [
+    "leaflet",
+    "plugins",
+    "geolocation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i-breaker/leaflet-plugin-geolocation"
+  },
+  "author": {
+    "name": "Sergey Ushakov",
+    "email": "sergushakov.public@gmail.com"
+  },
+  "dependencies": {
+    "leaflet": "^0.7.2"
+  },
+  "license": "MIT"
+}
